@@ -133,6 +133,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Номенклатура</Catalog>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>РеализацияТоваровУслуг</Document>
 		</ChildObjects>

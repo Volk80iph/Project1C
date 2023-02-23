@@ -134,6 +134,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Document>ПоступлениеТоваровУслуг</Document>
+			<Document>РеализацияТоваровУслуг</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
